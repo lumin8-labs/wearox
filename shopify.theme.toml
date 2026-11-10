@@ -10,3 +10,4 @@ store = "your-store-name.myshopify.com"
 [environments.staging]
 store = "your-store-name.myshopify.com"
 # theme = "1234567890" # Optional: set to a specific unpublished staging theme ID
+
