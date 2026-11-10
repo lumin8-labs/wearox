@@ -77,7 +77,7 @@
           "settings": {
             "width": "fill",
             "custom_width": 32,
-            "heading": "Get on the list",
+            "heading": "JOIN THE DROP LIST",
             "heading_preset": "h5",
             "border_style": "underline",
             "input_style": "custom",
@@ -89,7 +89,7 @@
             "input_type_preset": "paragraph",
             "style_class": "button-unstyled",
             "display_type": "text",
-            "label": "OK",
+            "label": "JOIN",
             "integrated_button": true,
             "button_type_preset": "paragraph",
             "padding-block-start": 0,
@@ -142,7 +142,7 @@
           "type": "footer-copyright",
           "name": "t:names.copyright",
           "settings": {
-            "show_powered_by": true,
+            "show_powered_by": false,
             "font_size": "0.75rem",
             "case": "none"
           },
