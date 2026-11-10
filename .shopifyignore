@@ -1,0 +1,19 @@
+# Exclude local repo, tooling, and config files from Shopify theme uploads
+.git/
+.gitignore
+.shopify/
+.shopifyignore
+.DS_Store
+Thumbs.db
+.env
+.env.*
+shopify.theme.toml
+shopify.theme.local.toml
+package.json
+package-lock.json
+node_modules/
+README.md
+seed/
+*.csv
+.vscode/
+.idea/

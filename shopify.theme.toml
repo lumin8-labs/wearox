@@ -1,0 +1,13 @@
+# Shopify CLI environments configuration
+# Docs: https://shopify.dev/docs/storefronts/themes/tools/cli/environments
+#
+# Replace "your-store-name.myshopify.com" with your store domain, then run:
+#   shopify theme dev -e dev
+
+[environments.dev]
+store = "your-store-name.myshopify.com"
+
+[environments.staging]
+store = "your-store-name.myshopify.com"
+# theme = "1234567890" # Optional: set to a specific unpublished staging theme ID
+

@@ -1,0 +1,18 @@
+# macOS / OS files
+.DS_Store
+Thumbs.db
+
+# Shopify CLI / local overrides & secrets
+.shopify/
+.env
+.env.*
+shopify.theme.local.toml
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+
+# Editors
+.vscode/
+.idea/
+
